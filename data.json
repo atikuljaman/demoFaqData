@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "category": "My Next Door",
+    "title": "Why should I choose My Next Door?",
+    "desc1": "My Next Door is the first peer-to-peer storage marketplace based in Luxembourg. We provide you a safe, easy and reliable way of sharing storage space. Our goal is simple: to connect people who need space with people who have space. Rapid urbanization has made space more limited. However there are a large number of households with unused space. With My Next Door you can always find affordable storage just around the corner. If you have some unused space, you can easily make extra cash. We want to influence your neighbors and the community to make a win win for everyone. Joining My Next Door is free for both Hosts and Renters."
+  },
+  {
+    "id": 2,
+    "category": "My Next Door",
+    "title": "Where is My Next Door available?",
+    "desc1": "At the moment My Next Door is available in Luxembourg. We are planning on expanding to other countries, so please let us know if you want to list or rent a space outside of Luxembourg."
+  },
+  {
+    "id": 3,
+    "category": "My Next Door",
+    "title": "How do I sign up for My Next Door?",
+    "desc1": "Signing up for My Next Door is free for both Hosts and Renters. To join today, click here."
+  },
+  {
+    "id": 4,
+    "category": "My Next Door",
+    "title": "How do we secure user Data",
+    "desc1": "Coming soon"
+  },
+  {
+    "id": 5,
+    "category": "My Next Door",
+    "title": "How can I contact My Nextdoor?",
+    "desc1": "Coming soon"
+  },
+  {
+    "id": 6,
+    "category": "My Next Door",
+    "title": "How does Fat Llama work?",
+    "desc1": "Coming soon"
+  },
+  {
+    "id": 7,
+    "category": "Renting",
+    "title": "What type of spaces can I find on My Next Door?",
+    "desc1": "You can store all kinds of stuff with My Next Door. Here is a brief list of items you might consider:",
+    "list1": " <ul><li>Cars</li><li>Tires</li><li>Sports equipment</li><li>Clothes</li><li>Furniture</li><li>Electronics</li><li>Tools</li><li>Children’s gear and clothes</li><li>Books</li><li>Seasonal decorations</li><li>And much more</li></ul>",
+    "desc2": "Items that are not allowed to be stored are referenced in our Terms and Conditions but here is a brief outline:",
+    "list2": "<ul><li>Toxic or contaminated goods</li><li>Perishables</li><li>Weapons</li><li>Illegal substances</li><li>Live animals or plants</li><li>Odor-emitting items</li><li>Valuables</li></ul>",
+    "desc3": "You need to ensure that nothing you store will harm the host or the property."
+  },
+  {
+    "id": 8,
+    "category": "Renting",
+    "title": "How do I book a space?",
+    "desc1": "To book a space you have to sign up for our My Next Door and find the adequate space. You can contact the host and discuss any details. After you book a space, the host has 48 hours to accept your booking. Your payment is processed through our secure payment system."
+  },
+  {
+    "id": 9,
+    "category": "Renting",
+    "title": "How much does My Next Door cost?",
+    "desc1": "Using our platform and searching for unused space is completely free. To cover our operational costs, there is a small processing fee of 5% on all payments."
+  },
+  {
+    "id": 10,
+    "category": "Renting",
+    "title": "Are my belongings insured?",
+    "desc1": "As a renter, if you damage a host’s property, you are responsible. We recommend you to review your current insurance to ensure you have suitable coverage. In general, these insurances are pretty much affordable and convenient.",
+    "desc2": "In the meantime, we are working on our own My Next Door insurance. It means that in future you will be covered by the My Next door insurance after completing the payment and the agreement. "
+  },
+  {
+    "id": 11,
+    "category": "Renting",
+    "title": "How long can I rent a space for?",
+    "desc1": "The length of your space rental is agreed between you and the host. The host decides if the length of rental is acceptable and you may respond on our platform to confirm details. If the space is rented out for more than a month, My Next door will process recurring payments each month."
+  },
+  {
+    "id": 12,
+    "category": "Renting",
+    "title": "Do I share space with others?",
+    "desc1": "Some spaces are private and some are shared. It is up to you to choose what kind of space you want."
+  },
+  {
+    "id": 13,
+    "category": "Renting",
+    "title": "Can I cancel the booking?",
+    "desc1": "All renters are given 24 hours from the time of a confirmed booking to cancel your reservation. If you decide to cancel after 24 hours, either before or after the move-in start date, you must provide 1 month notice to the Host. For more information on My Next Door cancellation policy, see our Terms & Conditions. If you have any questions, please contact us at EMAIL."
+  },
+  {
+    "id": 14,
+    "category": "Renting",
+    "title": "Who do I pay? Are there any fees?",
+    "desc1": "Your payments will always be processed through My Next Door while ensuring you are protected under our Terms & Conditions and Cancellations and Refunds Policy. We will collect payments from you each month by automatically charging your credit card on the renewal date (the same date each month as their start date). All payments are subject to a 5% fee to cover the operational costs of the platform."
+  },
+  {
+    "id": 15,
+    "category": "Renting",
+    "title": "What if the host wants me to pay him/her directly?",
+    "desc1": "A host should never ask you to pay him/her directly. If you make payments outside of My Next Door, your personal information will not be protected and you will be at risk of fraud and other security issues. If you are asked to pay a host directly, please contact us at EMAIL."
+  },
+  {
+    "id": 16,
+    "category": "Renting",
+    "title": "What are the payment methods?",
+    "desc1": "At the moment, you can pay with your credit card."
+  },
+  {
+    "id": 17,
+    "category": "Hosting",
+    "title": "What type of space can I rent out?",
+    "desc1": "On My Next Door you can rent out all kinds of spaces, such as garages, parking lots, driveways, sheds, attics, basements, empty rooms, and more. Some people just want to store their tires or bicycles. Some people need vehicle storage for their car, truck, boat or RV. No space is too big or small."
+  },
+  {
+    "id": 18,
+    "category": "Hosting",
+    "title": "How much does it cost to list my space?",
+    "desc1": "Listing your space on My Next Door is completely free even for multiple listings. My Next Door charges a 5% fee on all the payouts to cover the operational costs of the platform. "
+  },
+  {
+    "id": 19,
+    "category": "Hosting",
+    "title": "How will My Next Door advertise my space?",
+    "desc1": "To help attract renters to your listing My Next Doors will advertise your listing on newsletters, social posts, blogs, paid search, internet ads and flyers. "
+  },
+  {
+    "id": 20,
+    "category": "Hosting",
+    "title": "Are the stored items insured?",
+    "desc1": "In some cases renters have insurance that covers the items that are stored at your place. Maybe you have insurance that also insures other people’s items stored in your property. In that case, you can mention this in your listing which will make your listing more attractive for people without insurance.",
+    "desc2": "In the meantime, we are working on our own My Next Door insurance. It means that in future the stored items will be covered by the My Next door insurance."
+  },
+  {
+    "id": 21,
+    "category": "Hosting",
+    "title": "What do I do if a renter damages my property?",
+    "desc1": "In this case the Renter is 100% responsible. For more information, please review our Terms & Conditions or contact us at EMAIL."
+  },
+  {
+    "id": 22,
+    "category": "Hosting",
+    "title": "What should I do if I have issues with a renter?",
+    "desc1": "You should try and resolve the problem directly with the renter. If you are having difficulties settling an issue please contact us at EMAIL."
+  },
+  {
+    "id": 23,
+    "category": "Hosting",
+    "title": "What is the minimum and maximum storage period?",
+    "desc1": "As a host, you decide on the length of rental. The minimum storage period can be set on one day, one week or one month. Please discuss this in advance to avoid any future issues.",
+    "desc2": "The minimum term of notice is 1 month, but preferably longer. If the space is rented out for more than a month, My Next door will process recurring payments each month."
+  },
+  {
+    "id": 24,
+    "category": "Hosting",
+    "title": "What if the stored items are not picked up?",
+    "desc1": "In that case, contact us, so we can contact the renter. If that doesn’t work out, we will pick up the items. You are not permitted to move stored items as it might lead to legal issues"
+  },
+  {
+    "id": 25,
+    "category": "Hosting",
+    "title": "Do I have to pay taxes?",
+    "desc1": "Normally you have to pay taxes on any earned income. It is your responsibility to pay applicable taxes."
+  },
+  {
+    "id": 26,
+    "category": "Hosting",
+    "title": "How and when do I get paid?",
+    "desc1": "You are paid directly to your bank account. My Next Door is collecting payments from your renter each month by automatically charging their credit card on the renewal date (the same date each month as their start date). Your renter pays when they place their booking request so when you receive their request the renter has already paid for the space. Payouts are subject to a 5% fee to cover the operational costs of the platform."
+  }
+]
